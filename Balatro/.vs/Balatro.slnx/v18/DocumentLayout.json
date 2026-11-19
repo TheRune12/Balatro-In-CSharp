@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruben\\OneDrive\\School TCR\\ICT\\26-27\\Balatro-In-CSharp\\Balatro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB4C60A-77F2-98CE-9188-3FA2630B3B1E}|Balatro\\Balatro.csproj|c:\\users\\ruben\\onedrive\\school tcr\\ict\\26-27\\balatro-in-csharp\\balatro\\balatro\\suit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB4C60A-77F2-98CE-9188-3FA2630B3B1E}|Balatro\\Balatro.csproj|solutionrelative:balatro\\suit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB4C60A-77F2-98CE-9188-3FA2630B3B1E}|Balatro\\Balatro.csproj|c:\\users\\ruben\\onedrive\\school tcr\\ict\\26-27\\balatro-in-csharp\\balatro\\balatro\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB4C60A-77F2-98CE-9188-3FA2630B3B1E}|Balatro\\Balatro.csproj|solutionrelative:balatro\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB4C60A-77F2-98CE-9188-3FA2630B3B1E}|Balatro\\Balatro.csproj|c:\\users\\ruben\\onedrive\\school tcr\\ict\\26-27\\balatro-in-csharp\\balatro\\balatro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB4C60A-77F2-98CE-9188-3FA2630B3B1E}|Balatro\\Balatro.csproj|solutionrelative:balatro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB4C60A-77F2-98CE-9188-3FA2630B3B1E}|Balatro\\Balatro.csproj|c:\\users\\ruben\\onedrive\\school tcr\\ict\\26-27\\balatro-in-csharp\\balatro\\balatro\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB4C60A-77F2-98CE-9188-3FA2630B3B1E}|Balatro\\Balatro.csproj|solutionrelative:balatro\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\School TCR\\ICT\\26-27\\Balatro-In-CSharp\\Balatro\\Balatro\\Program.cs",
+              "RelativeDocumentMoniker": "Balatro\\Program.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\School TCR\\ICT\\26-27\\Balatro-In-CSharp\\Balatro\\Balatro\\Program.cs",
+              "RelativeToolTip": "Balatro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T10:43:07.453Z",
+              "IsPinned": true,
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\School TCR\\ICT\\26-27\\Balatro-In-CSharp\\Balatro\\Balatro\\Card.cs",
+              "RelativeDocumentMoniker": "Balatro\\Card.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\School TCR\\ICT\\26-27\\Balatro-In-CSharp\\Balatro\\Balatro\\Card.cs",
+              "RelativeToolTip": "Balatro\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T10:45:10.256Z",
+              "IsPinned": true,
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rank.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\School TCR\\ICT\\26-27\\Balatro-In-CSharp\\Balatro\\Balatro\\Rank.cs",
+              "RelativeDocumentMoniker": "Balatro\\Rank.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\School TCR\\ICT\\26-27\\Balatro-In-CSharp\\Balatro\\Balatro\\Rank.cs",
+              "RelativeToolTip": "Balatro\\Rank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T10:45:16.082Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Suit.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\School TCR\\ICT\\26-27\\Balatro-In-CSharp\\Balatro\\Balatro\\Suit.cs",
+              "RelativeDocumentMoniker": "Balatro\\Suit.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\School TCR\\ICT\\26-27\\Balatro-In-CSharp\\Balatro\\Balatro\\Suit.cs",
+              "RelativeToolTip": "Balatro\\Suit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T10:45:46.424Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
